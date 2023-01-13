@@ -1,3 +1,4 @@
+# A written report on the UFO analysis
 Introduction: With the help of this examination, we may start learning JavaScript by examining its technical features and how they relate to data analytics and visualization. In this project, I'll help data journalist Dana create a story about McMinnville, Oregon, which is where she's from. Using my knowledge of CSS and Bootstrap to build and style the page for dependable usability would also mean a lot. To test the code created for the Website page, I'll also use Chrome Dev tools.
 
 Methodology: I'll create a table in particular to organize UFO data that has been stored as a JavaScript cluster, rundown, or rundown. Information can be filtered by this table based on predetermined standards. The page will display Dana's post and provide visitors with the opportunity to assist in the informational effort and search for UFO encounters in light of predetermined standards.
